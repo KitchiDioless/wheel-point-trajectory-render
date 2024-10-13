@@ -1,0 +1,12 @@
+*.user
+*.suo
+*.sln.docstates
+*.cache
+*.ilk
+*.log
+*.nupkg
+*.pidb
+*.obj/
+*.bin/
+*.userosscache
+*.vs/
